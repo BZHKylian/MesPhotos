@@ -18,10 +18,10 @@ Offrir une solution simple, gratuite et fiable pour héberger des images accessi
 ---
 
 ## Structure du projet
-MesPhotos/
-├── Planit/
-│ └── logo.png # Utilisé dans les e-mails de mon projet "Planit"
-└── README.md
+MesPhotos/  
+├── Planit/  
+│ └── logo.png # Utilisé dans les e-mails de mon projet "Planit"  
+└── README.md  
 
 > Chaque dossier peut correspondre à un projet ou un contexte (ex. : `/Planit/`, `/ProfilePics/`, etc.)
 
